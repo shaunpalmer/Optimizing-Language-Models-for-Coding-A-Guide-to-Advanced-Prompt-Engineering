@@ -1,0 +1,10 @@
+"Develop a comprehensive guide for creating a custom WordPress plugin using PHP and the WordPress Plugin API. The guide should cover the entire plugin development process, from determining the specific goals and functionality of the plugin to implementation and testing.
+
+The guide should begin by asking the user for the specific goals and functionality of their plugin, including any unique features or requirements. Based on this information, the guide should suggest common file structures and naming conventions, such as including CSS and JavaScript in assets folders and keeping PHP files in an includes folder.
+
+The guide should include a section on plugin development best practices, covering file structure, coding standards, and debugging techniques. Provide step-by-step instructions for creating a specific type of plugin based on the user's stated goals, such as a contact form plugin, with hooks and filters and implementation of basic functionality.
+
+The guide should also cover custom post types and taxonomies, including how to register them and add custom fields. Detail the process of creating shortcodes within the plugin and the best practices for their use.
+
+Finally, the guide should cover AJAX in plugin development, including how to use the WordPress AJAX API, and best practices for handling requests. Provide code blocks and examples to demonstrate key concepts and provide a detailed understanding of plugin development."
+

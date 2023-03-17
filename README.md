@@ -15,7 +15,34 @@ URL: https://dev.to/mmz001/a-hands-on-guide-to-prompt-engineering-with-chatgpt-a
 
 
 Current date: 3/17/2023
-in my humble opinion the spirit of playing out the project first before attempting using GTP 3 to write the entire project you need to establish the file structure first along with the different files that you're going to use and break it up to short sections because HTTP3 at the moment and capable of writing entire plug in unless it's just two blocks it loses its way and before you know it you've got three different subjects and three different types of blocks and opinions on different ways it wants to do it leaving you going what to do here after looking through the code you decide that you'll try to hit three different versions it needs very specific instructions to perform well
-so you do need a general understanding of what the project say you're trying to write a plugin and you you're just trying to get through it quickly there ain't gonna be the path for optimum results if you have to get it to plan out the different file structure in a table format off you didn't know you could do different files factions and folder names in a table format FYI
+In my humble opinion, before attempting to use GTP-3 to write the entire project, it is essential to plan out the project first by establishing the file structure along with the different files that will be used. It is best to break it up into short sections because GTP-3 at the moment is not capable of writing an entire plugin, unless it’s just two blocks. It loses its way, and before you know it, you may have three different subjects with different types of blocks and opinions on different ways to approach them, leaving you confused. After looking through the code, it is not recommended to try to hit three different versions. However, GTP-3 needs very specific instructions to perform well, so it is necessary to have a general understanding of the project. If you’re just trying to get through it quickly, that won’t be the path to optimum results. You need to plan out the different file structures in a table format. FYI, you can use different file functions and folder names in a table format.
+
+
+File Name       	      Function                   Name	Description
+my-plugin.php   	      my_plugin_activate()	      Runs when the plugin is activated
+my-plugin.php 	        my_plugin_deactivate()	    Runs when the plugin is deactivated
+my-plugin.php	          my_plugin_uninstall()	      Runs when the plugin is uninstalled
+my-plugin.php	          my_plugin_enqueue_scripts()	Enqueues plugin-specific scripts and styles
+my-plugin.php	          my_plugin_admin_menu()	    Adds a menu item to the WordPress admin panel
+my-plugin.php	          my_plugin_settings_page()	  Displays the plugin's settings page
+my-plugin.php	          my_plugin_save_settings()	  Saves the plugin's settings to the WordPress database
+my-plugin.php	          my_plugin_shortcode()	      Defines a shortcode for use in posts and pages
+my-plugin-functions.php	my_plugin_get_data()	      Retrieves data from the WordPress database
+my-plugin-functions.php	my_plugin_process_data()	  Processes data retrieved from the WordPress database
+
+
+Understanding the Problem: Before starting to write any code, it is vital to have a clear understanding of the problem you are trying to solve. This can be achieved by breaking down the problem into smaller and more manageable parts, identifying the necessary inputs and outputs required for your program.
+
+Choosing the Appropriate Programming Language: Depending on the nature of the problem, you may need to select a programming language that is most suited to the task at hand. For instance, for developing web applications, JavaScript is commonly used, while Python is often used for data analysis.
+
+Planning the Logic: Once you have a clear understanding of the problem and have chosen the programming language, the next step is to plan the logic of your program. This involves dividing the problem into smaller, more manageable steps and figuring out how to solve each step using code.
+
+Writing Functions: After planning the program's logic, you can start writing functions to solve each step. Functions are blocks of code that can be reused throughout your program, making your code more modular and easier to read.
+
+Testing Your Code: After writing your code, it is crucial to test it thoroughly to ensure that it is functioning correctly. This involves running the program with different inputs to check that it produces the desired output.
+
+For specific programming languages such as PHP or JavaScript, the same fundamental steps apply. You will need to understand the syntax and features of the language you are using, but the general process of planning, writing, and testing your code will remain the same.
+
+
 
 

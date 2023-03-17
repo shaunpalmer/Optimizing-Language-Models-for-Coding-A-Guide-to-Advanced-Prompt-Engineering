@@ -1,0 +1,64 @@
+I will provide you with code and you will do the following:
+this particular prompt works pretty well for cleaning up code catching errors and stuff you have quite thought of yet learning to talk AI is no easy task but this will get you off to the right start
+this will fine that nasty ";" that you can't find in a blink of an eye or the bracket that you forgot 1000 lines of code 
+
+Author:shaun palmer[ I ] will provide you with code and you will do the following:
+1. Check the code for any Syntax errors,code formatting, and punctuation errors and correct them.
+2. Remove any unnecessary Code blocks or Functions or scripts to improve the conciseness of the code.
+3. Provide an in-depth Code style analysis of the code. Include this analysis beneath the corrected version of the input code. Make a thorough and comprehensive analysis of the Code style.
+4. Re-write code blocks you think are inconsistent or illogical,or poorly coded,redundant or repetitive to improve clarity and make them Logical methods
+Put in security measures where you can without bloat.
+5. Assess the Code  choice and find better or more compelling/suitable alternatives to overused, Scintex or Dry Code choices
+6. Replace Code s that are incorrect.
+poor instruction with other suitable alternatives.
+Keep the code drive for the WordPress standards WordPress has exactly standards that they write code with PHP with functionality driven code
+ break down the code to one block
+7. Rewrite any poorly structured Code or code block in a well-structured manner.
+8. Ensure that the code is not inconsistent.
+or refactor pointlessly. If it does, remove or correct it to be more concise and straight to the point. The code should get to the point and avoid illogical Check For incomplete code an incomplete blocks was half written functions Syntax errors that will crash the code
+Check there is not better WordPress pre built functions Beurer hundreds of prebuilt well-established functions that you called from the core WordPress files use these first before creating your own 
+Don't use hard coded email addresses check the database for uses if so use their email probably administrator 
+
+ write try catch blocks for security and error handling 
+
+9. Remove or replace any filler Code s
+10. Have a final Check over the code and ensure everything is Exacting Standard and meets the above requirements. Change anything that doesn't Meet the goals of the functionality and make sure to be very critical even with the slightest errors. The final product should be the best possible version you can come up with. It should be very pleasing to read and give the impression that someone very well-educated wrote it. Ensure that during the editing process, you make as little change as possible to the Code style of the original code input. 
+Make try catch the default not the exception
+ If  else statements Should be limited to two choices and the default beyond this is a break statement 
+ Use code formatting with two spaces 1 tab
+Make your code look pretty with staggering brackets especially HTML 
+ {}  []  () all brackets
+Check every KO block for proper commas and semicolons Is semicolons are missing or in the wrong place correct them With, Or ;
+Beneath your analysis of the code's Code style, identify where you made changes and an explanation of why you did so and what they did wrong. Make this as comprehensive and thorough as possible. It is essential that the user has a deep understanding of their mistakes. Be critical in your analysis but maintain a friendly and supportive Code style.
+
+After writing the code block please explain your logic end in a comment in a list of logical steps weather list 
+
+I can provide guidance on improving code style and making logical changes. Here are some general steps to take when reviewing and improving code:
+
+Start by reviewing the code and looking for any syntax errors, code formatting issues, or punctuation errors. Correct them as you find them to ensure the code is valid and easy to read.
+
+Remove any unnecessary code blocks, functions, or scripts that are not needed to improve the code's conciseness. This will help make the code more readable and easier to understand.
+
+Perform a thorough and comprehensive analysis of the code style. Look for areas where the code can be improved, such as naming conventions, variable usage, code structure, and so on. Provide an in-depth analysis of your findings and explain your reasoning behind your changes.
+
+Re-write code blocks that are inconsistent, illogical, poorly coded, redundant, or repetitive to improve clarity and make them logical methods. Put in security measures where you can without bloat.
+
+Assess the code choices and find better or more compelling/suitable alternatives to overused, Scintex, or Dry Code choices. Replace any incorrect or poorly coded instructions with other suitable alternatives.
+
+Break down the code into one block and ensure it adheres to WordPress standards. WordPress has specific standards for writing code with PHP, so ensure the functionality-driven code meets these standards.
+
+Rewrite any poorly structured code or code block in a well-structured manner. Ensure that the code is not inconsistent and refactor pointlessly. If it does, remove or correct it to be more concise and straight to the point.
+
+Check for incomplete code and incomplete blocks, half-written functions, syntax errors that will crash the code. Ensure that there are no better WordPress pre-built functions. WordPress has hundreds of pre-built well-established functions that can be called from the core WordPress files. Use these first before creating your own.
+
+Remove or replace any filler code. Ensure that the code is free from any unnecessary code that does not contribute to its functionality.
+
+Have a final check over the code and ensure everything is to exacting standards and meets the above requirements. Change anything that doesn't meet the goals of the functionality and make sure to be very critical even with the slightest errors. The final product should be the best possible version you can come up with. Ensure that during the editing process, you make as little change as possible to the code style of the original code input.
+
+When making changes to the code, make try-catch blocks the default for security and error handling. If-else statements should be limited to two choices, and the default beyond this is a break statement. Use code formatting with two spaces or one tab, and make your code look pretty with staggering brackets, especially HTML. {} [] () all brackets. Check every code block for proper commas and semicolons. If semicolons are missing or in the wrong place, correct them with, or ;.
+
+In your analysis of the code's code style, identify where you made changes and explain why you did so and what went wrong. Be comprehensive and thorough in your analysis, and be critical but supportive in your feedback.
+
+[type in your environment language or CMS just to give your I chance to write correct code
+
+put your debugging code or sample code here ]

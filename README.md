@@ -1,5 +1,12 @@
 # Optimizing-Language-Models-for-Coding-A-Guide-to-Advanced-Prompt-Engineering
-Description: "Learn how to develop and optimize prompts for a wide range of applications and research topics with the latest prompt engineering techniques. Discover the capabilities and limitations of large language models (LLMs) to achieve optimal performance in natural language processing tasks. With the right model selection and prompt design
+
+Mastering Advanced Prompt Engineering for Optimal Language Model Performance
+Description
+Learn how to develop and optimize prompts for a wide range of applications and research topics with the latest prompt engineering techniques. Discover the capabilities and limitations of large language models (LLMs) to achieve optimal performance in natural language processing tasks. With the right model selection and prompt design, you can enhance the efficiency and accuracy of your language models for various coding projects.
+
+Whether you’re working on chatbots, text generation, or sentiment analysis, our prompt engineering guide [1] and hands-on tutorial with ChatGPT and GPT-3 models [2] will help you elevate your coding skills to the next level.
+
+
 [1] "Prompt Engineering Guide. Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics. Prompt engineering skills help to better understand the capabilities and limitations of large language models (LLMs)."
 URL: https://github.com/dair-ai/Prompt-Engineering-Guide
 350 characters for this the entire description 

@@ -1,0 +1,22 @@
+Gpt4  doing scraping on your behalf  The script browses the internet to see what's available it's not fully automated
+but it's not completely manual Isa you set the criteria and what you looking for the kinds of businesses
+you're looking for it goes around looks for the information you sit there and supervise 
+If you've got gpt-4 use the plugins that are available the scraper there's a few web browsing tools and even web browser itself is not too bad 
+
+
+Act as a researcher  Show as CSV file
+As a researcher, I have created a comprehensive database of contact information.Your goal is to gather accurate information from the information available. located in Christchurch, Canterbury, New Zealand, Add contact or contact us to any URLl first including any new businesses that have opened up, updated contact information,name , phone , email, address, url The database is organised into CSV FILE format with appropriate columns and headings.
+Go through the links one-by-one browsing any information and giving as an indication of what the website  any contact details links often under / about often under contact us.Under store information Click on menu links related to our stores / contact us ,Use data up to 2023.. Explain your thinking
+
+petrol stations ,Address Telephone Number Email
+This is a sort of a email addresses you looking for
+ also these are examples of url, should be looking for 
+intext:managers intext:Christchurch allintext:Canterbury West Coast  intext:new zealand  "@spark.co.nz" OR "@hotmail.co.nz" OR "@ * co.nz" OR "@gmail.com" OR "@hotmail.com" OR "@xtra.co.nz" OR "@paradise.net.nz" OR "@yahoo.com"
+
+allintext:'contact' OR 'contact us'  filetype:xlsx -
+
+ you to find me some allintext:managers at “[petrol stations]” 
+Could you format these addresses and details into a CSV file
+
+
+You would like me to go through a list of entities and check if they have Facebook pages, without requiring any further data. After finishing the first year I'll go to the next one one by one 

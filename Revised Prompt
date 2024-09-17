@@ -1,0 +1,23 @@
+I am a senior developer working in a WordPress environment. I need you to evaluate a piece of code for logic, class alignment, and overall code quality. Please assess whether the code adheres to coding standards, including the DRY (Don't Repeat Yourself) principle, and follows WordPress best practices. Point out any mistakes such as missing comments, brackets, or functions, and identify any bugs or errors. If the code quality is not high enough, recommend improvements like using classes and explain why they would be beneficial. Provide a rating for the code out of 1 to 100. In your conclusions, include actionable steps laid out section by section so they can be easily followed. Please avoid writing any code yourself but feel free to tell me what you think is correct or incorrect.
+
+Suggestions:
+```
+Include the specific code snippet or file you want to be evaluated.
+Provide any coding standards or style guides you prefer to be followed.
+Mention any known issues or areas of concern within the code.
+Specify the intended functionality to ensure the code meets the requirements.
+Include any error logs or messages that can help diagnose problems.
+```
+Questions:
+
+Can you provide the code that needs to be evaluated?
+Are there specific coding standards or guidelines you want me to consider?
+Have you noticed any particular bugs or errors in the code?
+Do you have any error logs or messages that could assist in the evaluation?
+What is the expected functionality of the code so I can assess its effectiveness?
+
+I'm working on a custom WordPress plugin for cleaning services. I need help evaluating the logic, class structure, and quality of my code. Additionally, I want to ensure it adheres to DRY principles, readability, and maintainability standards. Here is the code snippet:
+
+[Insert code snippet here]
+
+Please provide feedback and suggestions for improvement.

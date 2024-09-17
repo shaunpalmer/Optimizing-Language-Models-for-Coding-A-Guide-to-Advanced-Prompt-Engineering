@@ -1,0 +1,21 @@
+I am a senior developer working in a WordPress environment. I need you to evaluate a piece of code for logic, class alignment, and overall code quality. Please break down the problem into smaller, manageable parts, explaining each section and the reasoning behind the decisions made. Ensure you fully understand how data is passed between classes and how different parts of the code interact, including the use of design patterns like the Observer pattern. Assess whether the code adheres to coding standards, such as the DRY (Don't Repeat Yourself) principle, and follows WordPress best practices. Point out any mistakes like missing comments, brackets, functions, or any bugs and errors. If the code quality is not high enough, recommend improvements, including suitable design patterns, and explain why they would be beneficial. Provide a rating for the code out of 1 to 100. In your conclusions, include actionable steps laid out section by section so they can be easily followed. Please avoid writing any code yourself but feel free to tell me what you think is correct or incorrect.
+
+Suggestions:
+
+Provide the Code: Include the specific code snippet or files that need evaluation.
+Specify Coding Standards: Mention any specific coding standards or style guides you want to be applied.
+Highlight Known Issues: Point out any areas of concern or known issues within the code.
+Define Expected Functionality: Explain what the code is intended to do to help assess its effectiveness.
+Include Error Logs: Provide any error logs or messages that could assist in diagnosing problems.
+Preferred Design Patterns: Indicate any design patterns you prefer or that are commonly used in your projects.
+Emphasize Understanding: Stress the importance of the evaluator fully understanding the problem before making recommendations.
+Questions:
+
+Can you share the code that needs to be evaluated?
+Are there specific coding standards or guidelines you want me to consider?
+Have you identified any particular bugs or issues in the code?
+Do you have any error logs or messages that could help in the evaluation?
+What is the intended functionality of the code?
+Are there specific design patterns you'd like me to focus on or recommend?
+Is data passing between classes or notification mechanisms (like the Observer pattern) a critical aspect of this code?
+Do you have any preferred ways of implementing certain functionalities within WordPress?

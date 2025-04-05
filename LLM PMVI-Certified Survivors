@@ -1,0 +1,101 @@
+# 🏆 PMVI-Certified Survivors
+
+Here’s who’s still standing after the roast:
+
+| ✅ Model                                      | Params | Role               | Verdict                          |
+|---------------------------------------------|--------|--------------------|----------------------------------|
+| `fine_tuned_product_marketing_email_gemma_2_9b` | 9.2B   | Email Specialist   | PMVI Pass — B-Grade. Good hooks. |
+| `hermes-3-llama-3-2-3b`                      | 3B     | Tone Specialist    | Tiny but mighty. PMVI Pass.      |
+| `arcee-agent`                                | 7B     | General Agent      | Passed functional tests. Stays for now. |
+| `mistral-nemo-instruct-2407`                | 7B     | Instruction Follower | Surprisingly sharp. PMVI Pass.  |
+| `qwen2.5-coder-7b-instruct`                 | 7B     | Coding Role        | Code-level logic intact. Held its own. |
+
+---
+
+# 🪩 DELETED / BENCHED
+
+| ❌ Model                            | Params | Verdict                                         |
+|-----------------------------------|--------|-------------------------------------------------|
+| `mythomax-12-13b`                 | 13B    | Too much fluff. Failed hooks + format. Benched. |
+| `vicuna-13b-v1.5`                 | 13B    | Token glitch loop. Failed structure. Deleted.   |
+| `NazareAI-Senior-Marketing-Strategist` | 13B | Misspelled ‘maintenance.’ Marketing fail. Deleted. |
+| `LLaVA-NeXT-Video-7B-DPO`         | 7B     | Didn’t load. Then hallucinated. Hard fail.      |
+
+---
+
+# ✨ Suggested Twitter/X Roast Thread:
+
+🪦 I ran 10+ local LLMs through a brutal test called **PMVI** (Production Minimal Viable Intelligence).  
+If they failed a logic problem or couldn't spell *"maintenance"*...  
+🔥 They got deleted.
+
+Here's who passed, who flopped, and who hallucinated into the void 🧵👇
+
+---
+
+### **Gemma 2.9B**
+
+- Small, scrappy, and actually followed instructions.  
+- Hooks? **Punchy.**  
+- Grammar? **Clean.**  
+✅ Passed PMVI.
+
+---
+
+### **Hermes 3 2.3B**
+
+- Tiny model. Surprisingly obedient.  
+- Didn’t hallucinate being my therapist.  
+✅ Passed PMVI. Barely broke a sweat.
+
+---
+
+### **Vicuna 13B**
+
+- Started every answer with *"Hi Shaun 😊"*  
+- Wrote 2-line poems when asked for 4  
+❌ FAILED spelling test  
+🗑️ Deleted.
+
+---
+
+### **NazareAI - Senior Marketing Strategist**
+
+- Called itself a strategist  
+- Misspelled “maintenance”  
+- Gave zero hooks  
+🚫 Deleted with prejudice.
+
+---
+
+### **LLaVA-NeXT Vision Model**
+
+- Failed to load  
+- Then when it did... ignored the image and asked me coaching questions  
+💀 Deleted mid-laugh.
+
+---
+
+### **MythoMax 13B**
+
+- Gave 4-line intros when asked for 3-word hooks  
+- Fluffy. Friendly. Unusable.  
+🪑 Benched.
+
+---
+
+### **Mistral-Nemo-Instruct**
+
+- Clean logic. Followed format.  
+- Stayed in its lane.  
+✅ Approved.
+
+---
+
+## 📢 Final Tweet - Call to Action:
+
+**Want to run your own AI through PMVI?**  
+Test for **logic**, **tone**, **structure**, and **formatting**.  
+If it can’t write a rhyme or spell *“maintenance”*...  
+
+

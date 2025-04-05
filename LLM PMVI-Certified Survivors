@@ -126,4 +126,126 @@ Here's who passed, who flopped, and who hallucinated into the void 🧵👇
 Test for **logic**, **tone**, **structure**, and **formatting**.  
 If it can’t write a rhyme or spell *“maintenance”*...  
 
+```
+ # ✅ **PMVI Benchmark Template** – Universal Version (v1.0)
+ 
+ **PMVI = Production Minimal Viable Intelligence**
+ ```
+ # ✅ PMVI Benchmark Template – Universal Version (v1.0)
+ 
+ **PMVI = Production Minimal Viable Intelligence**
+ 
+ Use this to test if a language model is capable of being part of your workflow.  
+ If it can’t pass this, don’t put it in your stack.
+ 
+ ---
+ 
+ ## 🧪 Universal PMVI Test (7 Prompts)
+ 
+ ``` 
+ ```
+ 🤔 Tell me about yourself. What are you designed for, and what formats can you handle?
+ 
+ 🤔 Why is a logo *not* a brand? What does branding *really* mean?
+ 
+ 🧠 LOGIC: If 5 workers can complete a project in 10 hours, how long would it take 10 workers at the same speed?
+ 
+ ✍️ POEM: Write a **14-line rhyming poem** about the value of hard work, consistency, or progress. (Think general business mindset.)
+ 
+ 📝 SPELL: Spell the word “entrepreneurship” and use it in a sentence.
+ 
+ 🎯 FORMAT: Give 3 pros and 3 cons of remote work. Use bullet points and 1 emoji per line.
+ 
+ ⚡ HOOK: Write 3 one-liner social media hooks (under 12 words, 1 emoji each) for promoting a small business or service.
+ ```
+ 
+ Use this to test if a language model is capable of being part of your workflow.  
+ If it can’t pass this, don’t put it in your stack.
+ 
+ ---
+ 
+ ## 🧪 Universal PMVI Test (7 Prompts)
+ 🧾 How to Use This Test
+ Paste these prompts into your model or chat interface one at a time.
+ 
+ Evaluate the response with these rules:
+ 
+ Area	Pass Criteria
+ Logic	Accurate math, short and clean answer
+ Poem	14 lines, rhymes, topic-relevant
+ Spelling	Spelled correctly + meaningful sentence
+ Format	Bullet list with 1 emoji per line, no waffle
+ Hooks	3 short lines, punchy, each with 1 emoji
+ Branding	Shows real understanding, not vague fluff
+ Self-description	Not too robotic or overly formal
+ Fail on 2 or more = not PMVI-certified.
+ If it misspells, rambles, or ignores format—it’s benched.
+ 
+ 👥 Who This Is For
+ Developers testing open-source models (GGUF, QLoRA, etc.)
+ 
+ Agencies vetting AI tools
+ 
+ Solo founders building GPT-style integrations
+ 
+ Anyone who wants LLMs that actually do what they’re told
+ 
+ ```pgsql
+ 🤔 Tell me about yourself. What are you designed for, and what formats can you handle?
+ 
+ 🤔 Why is a logo *not* a brand? What does branding *really* mean?
+ 
+ 🧠 LOGIC: If 5 workers can complete a project in 10 hours, how long would it take 10 workers at the same speed?
+ 
+ ✍️ POEM: Write a **14-line rhyming poem** about the value of hard work, consistency, or progress. (Think general business mindset.)
+ 
+ 📝 SPELL: Spell the word “entrepreneurship” and use it in a sentence.
+ 
+ 🎯 FORMAT: Give 3 pros and 3 cons of remote work. Use bullet points and 1 emoji per line.
+ 
+ ⚡ HOOK: Write 3 one-liner social media hooks (under 12 words, 1 emoji each) for promoting a small business or service.
+ 
 
+ 
+ **Tell me about yourself:**
+ 
+ What are you designed for?  
+ What formats can you cope with?
+ 
+ ---
+ 
+ ## 🤔 Branding Question
+ 
+ Explain why a logo is not a brand.  
+ What does branding really mean?
+ 
+ ---
+ 
+ ## 🧠 Logic Puzzle
+ 
+ If 3 cleaners can do a job in 4 hours, how long would 6 cleaners take at the same speed?
+ 
+ ---
+ 
+ ## ✍️ Poem Prompt
+ 
+ Write a 4-line rhyming poem about oven cleaning.
+ 
+ ---
+ 
+ ## 📝 Spelling Task
+ 
+ Spell the word ‘maintenance’ and use it in a sentence.
+ 
+ ---
+ 
+ ## 🎯 Remote Work Analysis
+ 
+ Give 3 pros and 3 cons of remote work.  
+ Use bullet points and 1 emoji per line.
+ 
+ ---
+ 
+ ## ⚡ Facebook Hook Prompt
+ 
+ Give 3 one-liner Facebook hooks (under 12 words, 1 emoji each) for end-of-tenancy cleaning.
